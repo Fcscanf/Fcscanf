@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2A5CF7&lines=Hi%2C+Everyone)](https://git.io/typing-svg)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fcscanf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fcscanf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
